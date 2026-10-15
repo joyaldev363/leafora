@@ -1,17 +1,17 @@
-# 🌱 Plant-App
+# Plant-App
 
 A mobile application designed to help users discover, care for, and manage their plants. Plant-App provides a simple and user-friendly experience for plant lovers, making it easier to explore plants and learn how to keep them healthy.
 
-## ✨ Features
+## Features
 
-- 🌿 **Plant Discovery** — Explore different types of plants.
-- 🔍 **Search Plants** — Find plants by name or category.
-- 🪴 **Plant Details** — View plant descriptions and care information.
-- 💧 **Plant Care Guide** — Learn about watering, sunlight, and maintenance.
-- ❤️ **Favorites** — Save your favorite plants for quick access.
-- 📱 **User-Friendly UI** — Enjoy a clean and responsive mobile interface.
+- **Plant Discovery** — Explore different types of plants.
+- **Search Plants** — Find plants by name or category.
+- **Plant Details** — View plant descriptions and care information.
+- **Plant Care Guide** — Learn about watering, sunlight, and maintenance.
+- **Favorites** — Save your favorite plants for quick access.
+- **User-Friendly UI** — Enjoy a clean and responsive mobile interface.
 
-## 📱 Screens
+## Screens
 
 - Splash Screen
 - Onboarding Screen
@@ -22,7 +22,7 @@ A mobile application designed to help users discover, care for, and manage their
 - Favorites Screen
 - Profile Screen
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Update this section according to the technologies used in your project.
 
@@ -33,7 +33,7 @@ Update this section according to the technologies used in your project.
 - **IDE:** Android Studio / Visual Studio Code
 - **Version Control:** Git & GitHub
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -70,7 +70,7 @@ Make sure you have installed:
    flutter run
    ```
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Plant-App/
@@ -94,7 +94,7 @@ Plant-App/
 
 *Note: The folder structure above is a suggested example. Adjust it to match your actual project.*
 
-## 🎨 Design Goals
+## Design Goals
 
 - Clean and modern interface
 - Nature-inspired colors
@@ -102,16 +102,16 @@ Plant-App/
 - Reusable UI components
 - Smooth mobile experience
 
-## 🔮 Future Improvements
+## Future Improvements
 
-- 🌦️ Weather-based plant care recommendations
-- 🔔 Watering reminders
-- 📷 AI-powered plant identification
-- 🦠 Plant disease detection
-- 📅 Personalized plant care schedules
-- ☁️ Cloud synchronization
+- Weather-based plant care recommendations
+- Watering reminders
+- AI-powered plant identification
+- Plant disease detection
+- Personalized plant care schedules
+- Cloud synchronization
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -136,11 +136,11 @@ Contributions are welcome!
 
 5. Open a Pull Request.
 
-## 📄 License
+## License
 
 This project is available under the MIT License. Add a `LICENSE` file to the repository if you choose to use this license.
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**
 
@@ -148,4 +148,4 @@ GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
 ---
 
-🌱 *Grow your knowledge. Care for your plants. Make every space greener.*
+*Grow your knowledge. Care for your plants. Make every space greener.*
