@@ -70,30 +70,6 @@ Make sure you have installed:
    flutter run
    ```
 
-## Project Structure
-
-```text
-Plant-App/
-├── android/
-├── ios/
-├── assets/
-│   ├── images/
-│   └── icons/
-├── lib/
-│   ├── main.dart
-│   ├── models/
-│   ├── services/
-│   ├── providers/
-│   ├── screens/
-│   ├── widgets/
-│   └── utils/
-├── test/
-├── pubspec.yaml
-└── README.md
-```
-
-*Note: The folder structure above is a suggested example. Adjust it to match your actual project.*
-
 ## Design Goals
 
 - Clean and modern interface
