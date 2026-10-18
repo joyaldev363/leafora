@@ -1,6 +1,6 @@
-# Plant-App
+# Leafora
 
-A mobile application designed to help users discover, care for, and manage their plants. Plant-App provides a simple and user-friendly experience for plant lovers, making it easier to explore plants and learn how to keep them healthy.
+A mobile application designed to help users discover, care for, and manage their plants. Leafora provides a simple and user-friendly experience for plant lovers, making it easier to explore plants and learn how to keep them healthy.
 
 ## Features
 
