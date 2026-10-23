@@ -13,11 +13,11 @@ abstract final class AssetPaths {
   // Logo & Branding
   // ---------------------------------------------------------------------------
   /// [Planned Asset] App primary logo mark.
-  /// Expected path: assets/images/logo/app_logo.png
+ 
   static const String logo = '$_imagesBase/logo/app_logo.png';
 
   /// [Planned Asset] Horizontal logo with wordmark.
-  /// Expected path: assets/images/logo/app_logo_wordmark.png
+
   static const String logoWordmark = '$_imagesBase/logo/app_logo_wordmark.png';
 
   // ---------------------------------------------------------------------------
