@@ -116,12 +116,6 @@ Contributions are welcome!
 
 This project is available under the MIT License. Add a `LICENSE` file to the repository if you choose to use this license.
 
-## Author
-
-**Your Name**
-
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
 ---
 
 *Grow your knowledge. Care for your plants. Make every space greener.*
