@@ -34,4 +34,7 @@ abstract final class AppConstants {
   // Default Care Configuration
   static const int defaultWateringIntervalDays = 7;
   static const int defaultFertilizingIntervalDays = 30;
+
+  // Supabase Storage Buckets
+  static const String defaultStorageBucket = 'plant-images';
 }
