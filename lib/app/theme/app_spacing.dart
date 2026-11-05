@@ -3,11 +3,15 @@ import 'package:flutter/material.dart';
 abstract final class AppSpacing {
   // Spacing Constants
   static const double space4 = 4.0;
+  static const double space6 = 6.0;
   static const double space8 = 8.0;
   static const double space12 = 12.0;
   static const double space16 = 16.0;
+  static const double space20 = 20.0;
   static const double space24 = 24.0;
+  static const double space28 = 28.0;
   static const double space32 = 32.0;
+  static const double space40 = 40.0;
 
   // Screen Padding
   static const double screenPadding = 20.0;
@@ -16,6 +20,8 @@ abstract final class AppSpacing {
 
   // Dimensions
   static const double cardRadius = 16.0;
+  static const double radius12 = 12.0;
+  static const double radius16 = 16.0;
   static const double buttonHeight = 48.0;
 
   // Predefined BorderRadius
