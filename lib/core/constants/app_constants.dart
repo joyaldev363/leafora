@@ -15,6 +15,9 @@ abstract final class AppConstants {
   static const String userPreferencesBox = 'leafora_user_preferences_box';
   static const String cacheBox = 'leafora_cache_box';
 
+  // User Preference Keys
+  static const String onboardingCompletedKey = 'has_completed_onboarding';
+
   // Notification Channels & Identifiers
   static const String wateringChannelId = 'leafora_watering_channel';
   static const String wateringChannelName = 'Plant Watering Reminders';

@@ -14,7 +14,7 @@ abstract final class AssetPaths {
   // ---------------------------------------------------------------------------
   /// [Planned Asset] App primary logo mark.
  
-  static const String logo = '$_imagesBase/logo/app_logo.png';
+  static const String logo = '$_imagesBase/logo/Logo.png';
 
   /// [Planned Asset] Horizontal logo with wordmark.
 
@@ -24,13 +24,13 @@ abstract final class AssetPaths {
   // Onboarding Illustrations
   // ---------------------------------------------------------------------------
   /// [Planned Asset] Illustration for onboarding screen 1 (Plant Discovery).
-  static const String onboarding1 = '$_imagesBase/onboarding/onboarding_1.png';
+  static const String onboarding1 = '$_imagesBase/onboarding/onboarding_01.png';
 
   /// [Planned Asset] Illustration for onboarding screen 2 (Care Schedule).
-  static const String onboarding2 = '$_imagesBase/onboarding/onboarding_2.png';
+  static const String onboarding2 = '$_imagesBase/onboarding/onboarding_02.png';
 
   /// [Planned Asset] Illustration for onboarding screen 3 (AI Diagnosis).
-  static const String onboarding3 = '$_imagesBase/onboarding/onboarding_3.png';
+  static const String onboarding3 = '$_imagesBase/onboarding/onboarding_03.png';
 
   // ---------------------------------------------------------------------------
   // Plant Images & Placeholders
