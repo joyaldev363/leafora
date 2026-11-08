@@ -79,6 +79,14 @@ final class NotificationFailure extends Failure {
   });
 }
 
+/// Represents failure during authentication or session management.
+final class AuthFailure extends Failure {
+  const AuthFailure({
+    required super.message,
+    super.code = 'AUTH_FAILURE',
+  });
+}
+
 /// Represents unexpected, unmapped, or fallback errors.
 final class UnknownFailure extends Failure {
   const UnknownFailure({
